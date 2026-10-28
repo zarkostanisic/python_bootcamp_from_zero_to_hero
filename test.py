@@ -1,1 +1,0 @@
-print("Sve radi super!")
