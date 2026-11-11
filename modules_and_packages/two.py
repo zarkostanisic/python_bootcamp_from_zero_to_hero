@@ -1,4 +1,4 @@
-import one
+import python_bootcamp_from_zero_to_hero.modules_and_packages.one as one
 
 print("TOP LEVEL IN TWO.PY")
 

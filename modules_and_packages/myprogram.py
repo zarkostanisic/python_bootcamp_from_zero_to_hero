@@ -1,0 +1,10 @@
+from python_bootcamp_from_zero_to_hero.modules_and_packages.mymodule import my_func
+
+my_func()
+
+
+from python_bootcamp_from_zero_to_hero.modules_and_packages.MyMainPackage import some_main_script
+from python_bootcamp_from_zero_to_hero.modules_and_packages.MyMainPackage.SubPackage import mysubscript
+
+some_main_script.report_main()
+mysubscript.sub_report()
