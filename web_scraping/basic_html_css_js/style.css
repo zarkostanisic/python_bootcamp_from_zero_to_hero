@@ -1,0 +1,22 @@
+p{
+    color: yellow;
+}
+
+#para2{
+    color: red;
+}
+
+.cool{
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.someclass{
+    color: green;
+    font-family: : Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 300%;
+}
+
+#someid{
+    color: blue;
+}
